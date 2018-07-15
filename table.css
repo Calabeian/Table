@@ -1,0 +1,22 @@
+table { margin: 1em;
+padding: 1em;
+border: 1px solid #003366;
+border-collapse: collapse; }
+
+td { margin: 1em; 
+padding: 0.5em;
+border: 1px solid #003366; 
+text-align: center; 
+color: #E600E6; }
+
+tr { margin: 1em;
+padding: 0.5em;
+border: 1px solid #003366; 
+color: #E600E6; }
+
+th { margin: 1em;
+padding: 0.5em; 
+color: #E600E6; }
+
+
+
